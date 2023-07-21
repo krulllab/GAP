@@ -33,3 +33,15 @@ The **right panel shows the MMSE-denoised version, i.e., predicted next photon p
 https://github.com/krulllab/GAP/assets/1193459/1d7d5334-ef71-466f-a93a-fd928d6297db
 
 https://github.com/krulllab/GAP/assets/1193459/fcbc0286-338f-4e6d-bdc3-ed103b9fed27
+
+
+# Data 
+Our datasets will be made available shortly.
+Links will be provided here.
+You can use this code with your own data, provided that integer pixel values correspond to photon counts, or other counts of independently occuring events.
+
+# Code
+We tested our code using **pytorch 1.12.0**, **torchvision 0.13.0** and **pytorch-lightning 1.6.5**.
+We also provide gap.yml, which should contian all dependencies.
+We provide example notebooks in the **examples** subfolder.
+
