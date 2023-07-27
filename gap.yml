@@ -1,4 +1,4 @@
-name: torch
+name: gap
 channels:
   - pytorch
   - conda-forge
