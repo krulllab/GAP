@@ -191,4 +191,3 @@ dependencies:
     - widgetsnbextension==3.6.1
     - yarl==1.7.2
     - zipp==3.8.1
-prefix: /home/alexander/miniconda3/envs/torch
