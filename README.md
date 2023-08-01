@@ -36,7 +36,11 @@ https://github.com/krulllab/GAP/assets/1193459/fcbc0286-338f-4e6d-bdc3-ed103b9fe
 
 
 # Data 
-Our datasets will be made available shortly.
+## Conv-PC Dataset
+The convallaria photon counting dataset is available [here](https://figshare.com/articles/dataset/Convallaria_Photon_Counting_Dataset_Conv-PC_/23675334).
+
+## Other Datasets
+Our other datasets will be made available shortly.
 Links will be provided here.
 You can use this code with your own data, provided that integer pixel values correspond to photon counts, or other counts of independently occuring events.
 
