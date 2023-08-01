@@ -45,7 +45,8 @@ Links will be provided here.
 You can use this code with your own data, provided that integer pixel values correspond to photon counts, or other counts of independently occuring events.
 
 # Code
-We tested our code using **pytorch 1.12.0**, **torchvision 0.13.0** and **pytorch-lightning 1.6.5**.
+We tested our code using **pytorch 1.12.0**, **torchvision 0.13.0** and **pytorch-lightning 1.6.5** on a Ubuntu 22.04.1 LTS system.
 We also provide gap.yml, which should contian all dependencies.
 We provide example notebooks in the **examples** subfolder.
+
 
