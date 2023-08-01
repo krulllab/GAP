@@ -37,7 +37,7 @@ https://github.com/krulllab/GAP/assets/1193459/fcbc0286-338f-4e6d-bdc3-ed103b9fe
 
 # Data 
 ## Conv-PC Dataset
-The convallaria photon counting dataset is available [here](https://figshare.com/articles/dataset/Convallaria_Photon_Counting_Dataset_Conv-PC_/23675334).
+The convallaria photon counting dataset is available [here](https://figshare.com/articles/dataset/Convallaria_Photon_Counting_Dataset_Conv-PC_).
 
 ## Other Datasets
 Our other datasets will be made available shortly.
